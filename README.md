@@ -3,7 +3,7 @@ The .plist libraries from which I-Ching, App of Changes generates readings.
 
 I publish a Cordova app on Google Play and the Apple Store called "I-Ching: App of Changes" that's based on a digital version of the book I created in Turbo Pascal back in the 1980s. Yes. I'm that old. 
 
-My original app contained the Wilhelm-Baynes translations of the oracle, with my own interpretations. Over the years, I've had interest from several people in providing alternative translations and interpretations in the app. 
+My original app contained the Wilhelm-Baynes translations of the oracle, modified for gender neutrality and modernizing much of the languate, with my own interpretations. Over the years, I've had interest from several people in providing alternative translations and interpretations in the app. 
 
 The purposee of this repo is to privide the XML structure that I use in .plist files in the app for anyone keen on porting other interpretations into the app. 
 
